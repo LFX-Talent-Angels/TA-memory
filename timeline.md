@@ -5,6 +5,13 @@ Chronological log of notable project events. Newest entries on top. Date format
 
 ## 2026
 
+- **2026-06-15** — Methodology shift to **agent-driven development** +
+  **outcome-based roadmap** ([ADR-0002](./decisions/0002-agent-driven-outcome-based.md)).
+  Original 9-deliverable waterfall archived in
+  [`roadmap/2026-original-9-deliverable-roadmap.md`](./roadmap/2026-original-9-deliverable-roadmap.md);
+  current plan (from PM Noemí Muñiz's roadmap) in
+  [`roadmap/2026-outcome-based-roadmap.md`](./roadmap/2026-outcome-based-roadmap.md).
+  Added `TA-lab` sandbox and project skills (`ta-ship`, `ta-define`, `ta-skill`).
 - **2026-06-15** — 2026 mentee cohort selected. Selection funnel:
   **99 registered → 35 pre-selected → 11 interviewed → 4 selected.**
 - **2026-06-15** — Meta-repo skeleton created for the `LFX-Talent-Angels` org:

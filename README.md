@@ -14,6 +14,7 @@ mentees and AI coding agents. Content is **CC-BY-4.0**.
 | Folder / file                                  | What it holds                                       |
 | ---------------------------------------------- | --------------------------------------------------- |
 | [`proposals/`](./proposals)                    | The original project proposal and any revisions     |
+| [`roadmap/`](./roadmap)                        | Roadmap records (original waterfall + current plan) |
 | [`decisions/`](./decisions)                    | Accepted ADRs (mirrored from the workspace)         |
 | [`meetings/`](./meetings)                      | Meetup and sync notes                               |
 | [`learnings/`](./learnings)                    | Non-obvious insights, gotchas, dead-ends            |
