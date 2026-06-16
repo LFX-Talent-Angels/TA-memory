@@ -18,6 +18,7 @@ mentees and AI coding agents. Content is **CC-BY-4.0**.
 | [`meetings/`](./meetings)                      | Meetup and sync notes                               |
 | [`learnings/`](./learnings)                    | Non-obvious insights, gotchas, dead-ends            |
 | [`timeline.md`](./timeline.md)                 | Chronological project log                           |
+| [`team.md`](./team.md)                         | Opt-in, self-written team page (mentors + mentees)  |
 
 ## Start here
 
