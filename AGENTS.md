@@ -6,7 +6,7 @@ Routing for non-Claude agents (Codex, Antigravity, Cursor, Gemini, …) in
 ## Read first
 
 1. `proposals/original-proposal.md` — scope and intent of the project.
-2. `../TA-workspace/CLAUDE.md` — authoritative project policy (git, DCO).
+2. `../CLAUDE.md` — authoritative project policy (git, DCO).
    On GitHub: `LFX-Talent-Angels/TA-workspace`.
 3. `CLAUDE.md` in this repo.
 

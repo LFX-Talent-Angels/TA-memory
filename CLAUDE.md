@@ -30,7 +30,7 @@ timeline.md  # chronological project log
 ## Read first
 
 1. `proposals/original-proposal.md` — the source of truth for scope and intent.
-2. The workspace policy: `../TA-workspace/CLAUDE.md` (git, DCO).
+2. The workspace policy: `../CLAUDE.md` (git, DCO).
 
 ## Git
 

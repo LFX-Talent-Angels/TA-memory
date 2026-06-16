@@ -3,5 +3,12 @@
 .vscode/
 *.swp
 
+# Secrets (never commit)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
 # Never store personal data here
 /Mentees/
